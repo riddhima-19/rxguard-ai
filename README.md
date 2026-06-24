@@ -1,4 +1,4 @@
-# RxGuard AI 💊
+# RxGuard AI 
 
 ### AI-Powered Drug Interaction & Prescription Safety Checker
 
